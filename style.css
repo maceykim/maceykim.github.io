@@ -1,6 +1,10 @@
 h1 {
-  color:light blue;
+  color:lightblue;
+  font-family: Times New Roman
+  font-size: 21px;
 }
 body {
   background-color:pink;
 }
+p {
+  font-family: Times New Roman
