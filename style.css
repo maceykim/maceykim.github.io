@@ -7,8 +7,8 @@ body {
 }
 
 .newheader {
-  background-color: darkblue;
-  color: white;
+  background-color: pink;
+  color: blue;
   font-size: 18px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -18,7 +18,7 @@ body {
 }
 
 .newheader a {
-  color: lightpink;
+  color: pink;
 }
 
 img {
